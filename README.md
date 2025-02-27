@@ -1,17 +1,17 @@
 # 🌟 Hi, I'm Faiaz Hossain! 🚀
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=550&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer+%7C+Cybersecurity+Enthusiast;Passionate+about+AI+in+Education%2C+HCI%2C+and+Accessibility;Building+Next-Gen+AI+Tools+%7C+Open-Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=550&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer+%7C;Passionate+about+AI+in+Education%2C+HCI%2C+and+Accessibility;Building+Next-Gen+AI+Tools+%7C+Open-Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
-🎯 AI/ML Developer | Full-Stack Engineer | Cybersecurity Enthusiast  
+🎯 AI/ML Developer | Full-Stack Engineer 
 💡 Passionate about AI in Education, HCI & Accessibility  
 📊 Building AI-Powered Learning Assistants & Mental Health Tools  
 🔬 Research-driven projects focused on Cognitive Science & AI Ethics  
-🎨 Minimalist UI/UX & Accessibility Advocate  
+🎨 Minimalist UI/UX Design
 
 ---
 
@@ -46,15 +46,14 @@
 🥈 **1st Runner-Up - Line Following Robot Competition** (DLD & Microprocessor Project)  
 🥈 **1st Runner-Up - Traffic Hazard Monitoring System** (IoT & Embedded Systems)  
 ✔ **CCNA Introduction to Networks** - Cisco Networking Academy  
-✔ **TensorFlow Developer Certificate** - Google  
 ✔ **MERN Stack Developer** - Completed Multiple Full-Stack Projects  
 ✔ **Research Paper on AI & Mental Health** (In Progress)  
 
 ---
 
 ## 📚 Learning & Future Goals
-🔍 **Mastering Reinforcement Learning & AI Ethics**  
-🚀 **Building a Scalable AI-Powered Learning Assistant**  
+🔍 **Mastering Machine Learning,Deep Learning & AI Ethics**  
+🚀 **Building a Scalable AI-Powered Learning Assistant & Health Care tools**  
 💡 **Exploring Generative AI & Large Language Models (LLMs)**  
 🌍 **Contributing to Open-Source AI Projects**  
 
