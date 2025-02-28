@@ -18,7 +18,7 @@
 ## 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,js,react,tailwind,nodejs,mongodb,mysql,express,java,cpp,git,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,js,react,tailwind,nodejs,mongodb,mysql,express,java,cpp,git,linux,vscode" />
 </p>
 
 ---
@@ -43,8 +43,8 @@
 ---
 
 ## 🏆 Achievements & Certifications
-🥈 **1st Runner-Up - Line Following Robot Competition** (DLD & Microprocessor Project)  
-🥈 **1st Runner-Up - Traffic Hazard Monitoring System** (IoT & Embedded Systems)  
+🥈 **1st Runner-Up IUB TechFest 2022 - Line Following Robot Competition** (DLD & Microprocessor Project)  
+🥈 **1st Runner-Up IUB TechFest 2023 - Traffic Hazard Monitoring System** (IoT & Embedded Systems)  
 ✔ **CCNA Introduction to Networks** - Cisco Networking Academy  
 ✔ **MERN Stack Developer** - Completed Multiple Full-Stack Projects  
 ✔ **Research Paper on AI & Mental Health** (In Progress)  
