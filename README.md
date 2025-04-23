@@ -54,10 +54,6 @@ Clean Code, Minimalist Design, Real-World Impact
   <img src="https://github-profile-trophy.vercel.app/?username=FaiazHossain&theme=radical&margin-w=10&margin-h=15&no-bg=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=FaiazHossain&theme=github-compact&area=true&hide_border=true" />
-</p>
-
 ---
 
 ## 🎯 Goals
