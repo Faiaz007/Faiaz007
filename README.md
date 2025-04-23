@@ -24,10 +24,10 @@ Clean Code, Minimalist Design, Real-World Impact
 
 ## 🚀 Projects
 
-- 🔧 **[Task Manager]([https://github.com/FaiazHossain/task-manager])** — Simple & effective task app using Vanilla JS.  
-- 🌦 **[Disaster & Weather App]([https://github.com/FaiazHossain/disaster-weather-app)](https://github.com/Faiaz007/disasterWeatherResponse)** — Integrated disaster alert and weather system.  
-- 💵 **[Expense Tracker]([(https://github.com/Faiaz007/Expense-tracker))(https://github.com/Faiaz007/Expense-tracker)** — Minimal budget manager in pure JS.  
-- 🛜 **[Internet Service Provieder Java App]([https://github.com/Faiaz007/ISP-Project])(https://github.com/Faiaz007/ISP-Project)** Internet Service Provider JavaFx Application 
+- 🔧 **[Task Manager] (https://github.com/FaiazHossain/task-manager)** — Simple & effective task app using Vanilla JS.  
+- 🌦 **[Disaster & Weather} App (https://github.com/Faiaz007/disasterWeatherResponse)** — Integrated disaster alert and weather system.  
+- 💵 **[Expense Tracker] (https://github.com/Faiaz007/Expense-tracker)** — Minimal budget manager in pure JS.  
+- 🛜 **[Internet Service Provieder Java App] (https://github.com/Faiaz007/ISP-Project)** Internet Service Provider JavaFx Application 
 ---
 
 ## 🏅 Highlights
