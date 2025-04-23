@@ -1,21 +1,20 @@
-# 🌟 Hi, I'm Faiaz Hossain! 🚀
+# 🌟 Faiaz Hossain
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=550&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer+%7C;Passionate+about+AI+in+Education%2C+HCI%2C+and+Accessibility;Building+Next-Gen+AI+Tools+%7C+Open-Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=550&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer+%7C;Building+Human-Centered+AI+Tools+%7C+Open-Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me
-🎯 AI/ML Developer | Full-Stack Engineer 
-💡 Passionate about AI in Education, HCI & Accessibility  
-📊 Building AI-Powered Learning Assistants & Mental Health Tools  
-🔬 Research-driven projects focused on Cognitive Science & AI Ethics  
-🎨 Minimalist UI/UX Design
+## 👨‍💻 About Me
+AI/ML Engineer & Full-Stack Developer  
+Passionate about Human-Centered AI, Accessibility, and Educational Technology  
+Bridging Tech & Cognitive Science to Build Meaningful Tools  
+Clean Code, Minimalist Design, Real-World Impact  
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,js,react,tailwind,nodejs,mongodb,mysql,express,java,cpp,git,linux,vscode" />
@@ -23,43 +22,40 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 🚀 Projects
+
+- 🔧 **[Task Manager](https://github.com/FaiazHossain/task-manager)** — Simple & effective task app using Vanilla JS.  
+- 🌦 **[Disaster & Weather App](https://github.com/FaiazHossain/disaster-weather-app)** — Integrated disaster alert and weather system.  
+- 💵 **[Expense Tracker](https://github.com/FaiazHossain/expense-tracker)** — Minimal budget manager in pure JS.  
+
+---
+
+## 🏅 Highlights
+
+- 🥈 1st Runner-Up @ IUB TechFest (2022, 2023)  
+- ✔ CCNA | MERN Stack Certified  
+- 📚 AI & Mental Health Research (Ongoing)  
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FaiazHossain&show_icons=true&theme=radical" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaiazHossain&theme=radical" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FaiazHossain&theme=radical" width="80%" />
 </p>
 
 ---
 
-## 🎯 Featured Projects
+## 🎯 Goals
 
-🚀 **[Task Manager](https://github.com/FaiazHossain/task-manager)** - A clean and simple task management app built with Vanilla JS.  
-🌪 **[Disaster Management & Weather App](https://github.com/FaiazHossain/disaster-weather-app)** - A weather-integrated disaster management solution.  
-💰 **[Expense Tracker](https://github.com/FaiazHossain/expense-tracker)** - A budget and expense tracking app using Vanilla JS.  
-📊 **[AI-Based Learning Assistant](https://github.com/FaiazHossain/ai-learning-assistant)** - An adaptive AI for neurodivergent students.  
-
----
-
-## 🏆 Achievements & Certifications
-🥈 **1st Runner-Up IUB TechFest 2022 - Line Following Robot Competition** (DLD & Microprocessor Project)  
-🥈 **1st Runner-Up IUB TechFest 2023 - Traffic Hazard Monitoring System** (IoT & Embedded Systems)  
-✔ **CCNA Introduction to Networks** - Cisco Networking Academy  
-✔ **MERN Stack Developer** - Completed Multiple Full-Stack Projects  
-✔ **Research Paper on AI & Mental Health** (In Progress)  
+- Master Deep Learning & AI Ethics  
+- Build Scalable, Culturally-Aware Mental Health Tools  
+- Contribute Meaningfully to Open-Source AI Projects  
 
 ---
 
-## 📚 Learning & Future Goals
-🔍 **Mastering Machine Learning,Deep Learning & AI Ethics**  
-🚀 **Building a Scalable AI-Powered Learning Assistant & Health Care tools**  
-💡 **Exploring Generative AI & Large Language Models (LLMs)**  
-🌍 **Contributing to Open-Source AI Projects**  
-
----
-
-## 🔗 Let's Connect!
+## 🔗 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/FaiazHossain"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -70,4 +66,4 @@
 
 ---
 
-⭐ **Feel free to star my repositories and contribute to open-source!** 🚀🔥
+⭐ If you find my work inspiring, feel free to star ⭐ and fork 🔁 — let’s build together!
