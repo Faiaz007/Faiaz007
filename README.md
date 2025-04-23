@@ -24,10 +24,10 @@ Clean Code, Minimalist Design, Real-World Impact
 
 ## 🚀 Projects
 
-- 🔧 **[Task Manager](https://github.com/FaiazHossain/task-manager)** — Simple & effective task app using Vanilla JS.  
-- 🌦 **[Disaster & Weather App](https://github.com/FaiazHossain/disaster-weather-app)** — Integrated disaster alert and weather system.  
-- 💵 **[Expense Tracker](https://github.com/FaiazHossain/expense-tracker)** — Minimal budget manager in pure JS.  
-
+- 🔧 **[Task Manager]([https://github.com/FaiazHossain/task-manager])** — Simple & effective task app using Vanilla JS.  
+- 🌦 **[Disaster & Weather App]([https://github.com/FaiazHossain/disaster-weather-app)](https://github.com/Faiaz007/disasterWeatherResponse)** — Integrated disaster alert and weather system.  
+- 💵 **[Expense Tracker]([(https://github.com/Faiaz007/Expense-tracker))** — Minimal budget manager in pure JS.  
+- 🛜 **[Internet Service Provieder Java App]([https://github.com/Faiaz007/ISP-Project])** Internet Service Provider JavaFx Application 
 ---
 
 ## 🏅 Highlights
@@ -43,6 +43,19 @@ Clean Code, Minimalist Design, Real-World Impact
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FaiazHossain&show_icons=true&theme=radical" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaiazHossain&theme=radical" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FaiazHossain&theme=radical" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaiazHossain&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FaiazHossain&theme=radical&margin-w=10&margin-h=15&no-bg=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=FaiazHossain&theme=github-compact&area=true&hide_border=true" />
 </p>
 
 ---
