@@ -46,12 +46,11 @@ Clean Code, Minimalist Design, Real-World Impact
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FaiazHossain&theme=radical" width="80%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FaiazHossain&theme=radical" width="60%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaiazHossain&layout=compact&theme=radical" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=FaiazHossain&theme=radical&margin-w=10&margin-h=15&no-bg=true" width="48%" />
 </p>
 
 ---
