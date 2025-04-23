@@ -53,10 +53,6 @@ Clean Code, Minimalist Design, Real-World Impact
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaiazHossain&layout=compact&theme=radical" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FaiazHossain&theme=github-compact&area=true&hide_border=true" />
-</p>
-
 
 ---
 
